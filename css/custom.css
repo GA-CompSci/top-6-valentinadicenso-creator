@@ -1,7 +1,13 @@
 /*******
 COLOR CHEAT SHEET
-
-
+https://coolors.co/fffcf2-ccc5b9-403d39-252422-eb5e28-432534-183a37
+fffcf2 - cream
+ccc5b9 - grey
+403d39 - charcoal brown
+252422 - black
+eb5e28 - orange
+432534 - purple
+183a37 - green
 
 
 *****/
@@ -11,3 +17,10 @@ COLOR CHEAT SHEET
 /************************/
 /******** FONTS *********/
 /************************/
+body, p, div {
+     font-family: "Open Sans", sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+     font-family: "Bebas Neue", sans-serif;
+}
